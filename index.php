@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Life Backup Insurance</title>
-	<link rel="stylesheet" type="text/css" href="sty.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
      <form action="login.php" method="post">
