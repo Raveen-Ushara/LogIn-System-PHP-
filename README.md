@@ -1,2 +1,2 @@
-# LogIn-System-PHP-
+# LogIn-System
 Simple login system with dashboard using PHP
